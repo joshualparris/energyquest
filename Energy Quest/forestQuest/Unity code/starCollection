@@ -1,0 +1,17 @@
+//Star Collection Script
+
+using UnityEngine;
+
+public class StarCollection : MonoBehaviour { public int score = 0; //initializing score to 0
+
+void OnTriggerEnter(Collider other)
+{
+    if (other.gameObject.CompareTag("Star"))
+    {
+        Destroy(other.gameObject); //destroys the star object that the player touches
+        score++; //increments the score value by 1
+    }
+}
+
+
+}

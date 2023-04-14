@@ -1,0 +1,32 @@
+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
+
+Create a very simple video game for windows 10 in Unity where the player can go forward, back, jump and collect stars. There is one map which is a forest. One quest which is the aim is to collect stars. Publish this game to a free online file and folder sharing site where I can download this immediately. Provide me the file names, metadata and code for each file, script, asset and folder used to create this game as soon as possible please. 
+The game does not need a scoring system. 
+The game does not need a menu screen, it should just start as soon as I open it. 
+It does not need a simple player character model, just make it a simple cube. 
+It does not need a UI. 
+It does not need a win condition. 
+It does not need particle effects. 
+It does not need more levels, only create 1 level. 
+It does not need a settings menu. 
+It does not need a timer. 
+It does not need a health bar. 
+The player does not take damage, they just collect stars. It does not need sound effects. 
+It does not need a game over screen. 
+It does not need different maps, only make 1 map. 
+It does not need enemies to the game. 
+It does not need powerups. 
+It does not need music or background music. 
+It does not require a tutorial or instructions or a pause menu. 
+It does not need a gamepad controller script. 
+It does not need a high score system. 
+The stars do not need to randomly spawn, they spawn in the same spot every time. 
+The player does not select which character to choose from, they only can play as a cube. 
+The game does not need a HUD. The game does not need a loading screen.
+The game does not need animations. 
+Do not add any other features or traits to the game, please keep it simple.
+
+
+
+
+currently on page 15

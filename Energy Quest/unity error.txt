@@ -1,0 +1,11 @@
+Unity Error Failed to resolve project template failed to decompress
+
+com.unity.template.gaming-third-person-2.1.0.tgz
+
+
+MissingReferenceException: The object of type 'DockArea' has been destroyed but you are still trying to access it.
+Your script should either check if it is null or you should not destroy the object.
+UnityEditor.GUIView.SendEvent (UnityEngine.Event e) (at <6e08e61cfda04255b3972ba7f0515fae>:0)
+UnityEditor.EditorWindow.SendEvent (UnityEngine.Event e) (at <6e08e61cfda04255b3972ba7f0515fae>:0)
+UnityEditor.RectSelection.SendCommandsOnModifierKeys () (at <6e08e61cfda04255b3972ba7f0515fae>:0)
+UnityEditor.EditorApplication.Internal_CallKeyboardModifiersChanged () (at <6e08e61cfda04255b3972ba7f0515fae>:0)
