@@ -1,4 +1,4 @@
-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
+
 
 Create a very simple video game for windows 10 in Unity where the player can go forward, back, jump and collect stars. There is one map which is a forest. One quest which is the aim is to collect stars. Publish this game to a free online file and folder sharing site where I can download this immediately. Provide me the file names, metadata and code for each file, script, asset and folder used to create this game as soon as possible please. 
 The game does not need a scoring system. 
